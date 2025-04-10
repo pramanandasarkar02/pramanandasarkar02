@@ -18,4 +18,4 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pramanandasarkar02)
-![Unique Visitors](https://visitor-badge.glitch.me/badge?page_id=username.profile)
+
