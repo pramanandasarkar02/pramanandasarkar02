@@ -1,0 +1,11 @@
+name: Update Profile
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: 0 0 * * *
+
+jobs:
+    update-profile:
+        name: Update Profile
+        runs-on: ubuntu-latest
