@@ -24,24 +24,17 @@ Email: pramanandasarkar02@gmail.com
 ## 💻 Tech Stack
 
 **Languages**
+C • C++ • Python • Java • Go • TypeScript • JavaScript • SQL
 
-Java • Python • Go • TypeScript • JavaScript
+**Libraries & Frameworks**
+PyTorch • TensorFlow • Keras • Scikit-learn • OpenCV • Hugging Face Transformers • NumPy • Pandas • Matplotlib • XGBoost • CatBoost • FastAPI • Flask • React • Next.js • Node.js • Express.js • NestJS
 
-**Frontend**
+**Tools & Technologies**
+Git • GitHub • Docker • Arch Linux 
 
-React • Next.js • HTML
 
-**Backend**
 
-Node.js • Express • NestJS • FastAPI • Flask
 
-**Databases**
-
-PostgreSQL • MongoDB • SQLite • Redis
-
-**Tools**
-
-Docker • Prisma • Git
 
 ---
 
